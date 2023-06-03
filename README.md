@@ -1,4 +1,4 @@
-# NLP-203 Quests Repository
+# NLP-203 HW Repository
 
 ## Kushagra Seth
 
